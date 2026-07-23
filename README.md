@@ -22,6 +22,21 @@ Ce dépôt contient mes exercices et workflows réalisés pendant ma formation C
 
 
 
+### Jour 2
+#### Objectif
+```
+Maîtriser le concept de routage de données, comprendre la différence entre les types de données (Latent, Image, Model, Conditioning) et utiliser des nœuds primitifs pour paramétrer proprement son espace.
+
+```
+#### Livrables 
+```
+- Un workflow Text-to-Image fonctionnel utilisant des nœuds primitifs pour centraliser les contrôles (Seed, Dimensions, Prompts).
+- Génération de 3 variantes d'une scène d'architecture extérieure à partir d'un prompt textuel pur.
+
+```
+
+
+
 
 
 ## Auteur
