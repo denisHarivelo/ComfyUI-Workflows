@@ -36,6 +36,19 @@ Maîtriser le concept de routage de données, comprendre la différence entre le
 ```
 
 
+### Jour 3
+#### Objectif
+```
+Comprendre l'architecture d'un modèle d'IA générative. Savoir identifier et utiliser un Checkpoint (SDXL vs Flux vs SD 1.5), configurer le VAE approprié pour éviter les couleurs ternes et ajuster les Samplers/Schedulers (K-Sampler).
+
+```
+#### Livrables 
+```
+- Un workflow documenté comparant l'impact de 2 échantillonneurs différents (ex. Euler a vs DPM++ 2M SDE) sur le rendu des matières (bois, verre).
+
+```
+
+
 
 
 
