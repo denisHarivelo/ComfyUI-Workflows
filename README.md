@@ -50,6 +50,21 @@ Comprendre l'architecture d'un modèle d'IA générative. Savoir identifier et u
 
 
 
+### Jour 4
+#### Objectif
+```
+Utiliser une image existante (un rendu 3D basique ou un croquis de villa) comme point de départ pour générer un visuel réaliste en contrôlant finement le facteur de débruitage (Denoising Strength).
+
+```
+#### Livrables 
+```
+- Un workflow Img2Img fonctionnel.
+- Une planche comparative montrant une progression de denoise de 0.1 à 0.9 pour comprendre le niveau de liberté laissé à l'IA sur un bâtiment d'architecture.
+
+```
+
+
+
 
 
 ## Auteur
