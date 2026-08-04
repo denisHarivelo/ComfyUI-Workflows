@@ -63,7 +63,19 @@ Utiliser une image existante (un rendu 3D basique ou un croquis de villa) comme 
 
 ```
 
+### Jour 5
+#### Objectif
+```
+- Savoir organiser ses workflows complexes pour qu'ils restent lisibles (utilisation des groupes, couleurs, notes)
+- Maîtriser le ComfyUI Manager pour installer des noeuds personnalisés (Custom Nodes) et résoudre les conflits de noeuds manquants (Red Nodes).
 
+```
+#### Livrables 
+```
+- Un workflow nettoyé, structuré par "Boîtes de Groupes" de couleurs différentes (Input, Processing, Output).
+- Installation réussie de ses premiers Custom Nodes (ex. Pixaroma Nodes ou Impact Pack).
+
+```
 
 
 
