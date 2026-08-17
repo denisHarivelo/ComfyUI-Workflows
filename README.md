@@ -77,7 +77,18 @@ Utiliser une image existante (un rendu 3D basique ou un croquis de villa) comme 
 
 ```
 
+### Jour 6
+#### Objectif
+```
+Forcer l'IA à respecter les contours d'un projet architectural ou d'un produit en utilisant ControlNet (modèle Canny ou Lineart).
 
+```
+#### Livrables 
+```
+- Un workflow ControlNet Canny.
+- Transformation d'un simple dessin au trait d'un bâtiment en une photo de bâtiment ultra-réaliste respectant strictement les lignes d'origine.
+
+```
 
 ## Auteur
 
