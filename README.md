@@ -90,6 +90,19 @@ Forcer l'IA à respecter les contours d'un projet architectural ou d'un produit 
 
 ```
 
+
+### Jour 7
+#### Objectif
+```
+Maîtriser la gestion de la profondeur spatiale pour intégrer des objets ou générer des scènes d'intérieur réalistes en utilisant ControlNet Depth.
+
+```
+#### Livrables 
+```
+- Un workflow convertissant une image de salon vide en carte de profondeur (Depth Map) pour y générer du mobilier parfaitement positionné dans l'espace.
+
+```
+
 ## Auteur
 
 Denis Harivelo
